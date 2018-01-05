@@ -17,7 +17,7 @@ spec:
     - containerPort: 1433
     env:
     - name: SA_PASSWORD
-      value: "netapp-01"
+      value: "techforum-01"
     - name: ACCEPT_EULA
       value: "Y"
     volumeMounts:
